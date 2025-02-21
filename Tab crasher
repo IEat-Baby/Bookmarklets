@@ -1,0 +1,1 @@
+javascript:alert(%22Are%20You%20Sure?%22);alert(%22Use%20At%20Your%20Own%20Risk%22);alert(%22Ready?%20IF%20NO%20RELOAD%20NOW.%22);setTimeout(()%20=%3E%20%7Bwhile%20(true)%20%7Bwhile(1)location.reload(1)%7D%7D,%201000);
