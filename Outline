@@ -1,0 +1,1 @@
+javascript:(function()%7Bwindow.isElementsOutlineVisible=!Boolean(window.isElementsOutlineVisible),window.isElementsOutlineVisible?document.head.insertAdjacentHTML(%22beforeend%22,'%3Cstyle%20id=%22elementsOutlines%22%3E*%20%7Boutline:%201px%20dashed%20red%20!important%7D%3C/style%3E'):document.getElementById(%22elementsOutlines%22)?.remove();%7D)();
